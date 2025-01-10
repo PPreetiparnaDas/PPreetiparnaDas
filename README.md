@@ -3,7 +3,6 @@
 <h3 align="center">Crafting Interactive Web Applications with Java, React, and Modern Web Technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preetiparnadas&label=Profile%20views&color=0e75b6&style=flat" alt="preetiparnadas" /> </p>
-![logo](https://github.com/PPreetiparnaDas/PPreetiparnaDas/edit/main/Untitled%20design.gif" )
 
 - 🌱 I’m currently learning and building with **Java, React,Html css Javascript ,Bootstrap ,Mysql**.
 
